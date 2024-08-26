@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" align="center"/></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG"/></a></h3>
 <h1 align="center">Hello 👋, I'm Lada Watanadilogkul</h1>
 <h3 align="center">A passionate student from Thai-Nichi Institute of Technology</h3>
 
