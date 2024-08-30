@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ReactNativeFinalProject](https://github.com/Lagedane/ReactNativeFinalProject)
 
-- 🌱 I’m currently learning **Javascript and React Native**
+- 🌱 I’m currently learning **Typescript and React Native**
 
 - 📫 How to reach me **l.watanadilogkul@gmail.com**
 
