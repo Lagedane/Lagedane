@@ -5,14 +5,14 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 - 🔭 I’m currently working on [**ReactNativeFinalProject**](https://github.com/Lagedane/ReactNativeFinalProject)  
 - 🌱 I’m currently learning **Laravel & PHP**  
 - 📫 Reach me at: **l.watanadilogkul@gmail.com**
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://instagram.com/lagedane" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" alt="Instagram" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lagedane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lagedane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🚀 Quote to Live By
+### Quote to Live By
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
