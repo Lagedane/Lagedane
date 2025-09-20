@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Hello+World!+🌍;Enjoy+Exploring+🚀" alt="Typing SVG" />
-</h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG"/></a></h3>
 
 <h2 align="center">Hello 👋, I'm <span style="color:#36BCF7">Lada Watanadilogkul</span></h2>
 <h4 align="center">🎓 A passionate student at Thai-Nichi Institute of Technology</h4>
