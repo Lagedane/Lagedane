@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-- 🔭 I’m currently working on [**ReactNativeFinalProject**](https://github.com/Lagedane/ReactNativeFinalProject)  
+- 🔭 I’m currently working on [**sushico-website**](https://github.com/NiraphatK/sushico-website.git)  
 - 🌱 I’m currently learning **Laravel & PHP**  
 - 📫 Reach me at: **l.watanadilogkul@gmail.com**
 
