@@ -13,10 +13,14 @@
 ---
 
 ### Connect with Me
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <a href="https://instagram.com/lagedane" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:l.watanadilogkul@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
@@ -37,21 +41,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-
-
----
-
-### GitHub Stats
-<p align="center">
-  <a href="https://github.com/lagedane">
-    <img src="https://github-readme-stats.vercel.app/api?username=lagedane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/lagedane">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lagedane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-  </a>
 </p>
 
 ---
