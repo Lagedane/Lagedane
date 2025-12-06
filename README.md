@@ -13,14 +13,10 @@
 ---
 
 ### Connect with Me
-<p align="center">
-  <a href="https://instagram.com/lagedane" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:l.watanadilogkul@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
 
 ---
 
