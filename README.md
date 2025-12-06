@@ -6,7 +6,7 @@
 ---
 
 ### About Me
--  I’m currently working on [**sushico-website**](https://github.com/NiraphatK/sushico-website.git)  
+-  I’m currently working on [**practice-react-portfolio**](https://github.com/Lagedane/practice-react-portfolio)  
 -  I’m currently learning **React & Next.js**  
 -  Reach me at: **l.watanadilogkul@gmail.com**
 
