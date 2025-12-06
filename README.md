@@ -1,14 +1,14 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG"/></a></h3>
 
-<h2 align="center">Hello 👋, I'm <span style="color:#36BCF7">Lada Watanadilogkul</span></h2>
-<h4 align="center">🎓 A passionate student at Thai-Nichi Institute of Technology</h4>
+<h2 align="center">Hello , I'm <span style="color:#36BCF7">Lada Watanadilogkul</span></h2>
+<h4 align="center"> A passionate student at Thai-Nichi Institute of Technology</h4>
 
 ---
 
 ### About Me
-- 🔭 I’m currently working on [**sushico-website**](https://github.com/NiraphatK/sushico-website.git)  
-- 🌱 I’m currently learning **Laravel & PHP**  
-- 📫 Reach me at: **l.watanadilogkul@gmail.com**
+-  I’m currently working on [**sushico-website**](https://github.com/NiraphatK/sushico-website.git)  
+-  I’m currently learning **React & Next.js**  
+-  Reach me at: **l.watanadilogkul@gmail.com**
 
 ---
 
@@ -49,8 +49,13 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lagedane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lagedane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <a href="https://github.com/lagedane">
+    <img src="https://github-readme-stats.vercel.app/api?username=lagedane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/lagedane">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lagedane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  </a>
 </p>
 
 ---
