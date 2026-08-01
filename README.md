@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Solutions;Business+Development;Bridging+Tech+%26+Business" alt="Typing SVG" />
   
-  <h1>Hi, I'm Lada Watanadilogkul 👋</h1>
-  <p><b>Seeking Junior Project Manager | Project Coordinator | Junior Business Analyst | Open to Global Opportunities</b></p>
-  <p>📍 Samut Prakan, Thailand</p>
+  <h1>Hi, I'm Lada Watanadilogkul</h1>
+  <p><code>🟢 Open to Global Opportunities</code></p>
+  <p><b>Seeking Junior Project Manager | Project Coordinator | Junior Business Analyst</b></p>
+  <p>Based in Samut Prakan, Thailand</p>
   
   <p align="center">
     <a href="https://linkedin.com/in/lada-watanadilogkul" target="_blank">
